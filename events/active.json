@@ -1,0 +1,42 @@
+{
+  "slug": "sree-valsam-catering-thrissur",
+  "name": "Sree Valsam Catering",
+  "shortName": "Sree Valsam",
+  "descriptor": "Catering Services",
+  "address": "Marrath House, Temple Rd, Triprayar, Keralam 680567",
+  "area": "Triprayar",
+  "city": "Thrissur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680567",
+  "geo": {
+    "lat": 10.4146913,
+    "lng": 76.1137342
+  },
+  "mapsLink": "https://maps.google.com/?cid=3424124451105681521",
+  "phone": "+91 94471 96595",
+  "whatsapp": "919447196595",
+  "hours": "Open 9 am – 8 pm · all days",
+  "opens": "09:00",
+  "closes": "20:00",
+  "rating": 3.6,
+  "reviewCount": 132,
+  "reviews": [
+    {
+      "name": "Randeep p r",
+      "rating": 5,
+      "quote": "We have been ordering from sreevalsam for most of the functions in our home. Food is very good and they are responsible people."
+    },
+    {
+      "name": "Sarath Mukundan",
+      "rating": 5,
+      "quote": "A really good experience. My reception's catering was done by Sreevalsam and that was an awesome experience. The food (veg and non veg) was excellent so was the service. Settings and and quantity was also Top Notch. Over all it was a great experience and will suggest to others."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://sree-valsam-catering-thrissur.vercel.app"
+}
